@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailsResponse
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://springbootsoap.exemple.com/cources course-details.xsd"
+        xmlns="http://springbootsoap.exemple.com/cources">
+    <CourseDetails>
+        <id>123</id>
+        <name>Name</name>
+        <description>Name Description</description>
+    </CourseDetails>
+</GetCourseDetailsResponse>

@@ -1,0 +1,1 @@
+Тестовый Spring Boot SOAP проект
